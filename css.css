@@ -16,7 +16,7 @@ END */
 
 body {
   font-family: "Crimson Text", "Minion Pro", Georgia, Times;
-  color: black;
+  color: rgba(0, 0, 0, 0.74);
   font-size: 0.8em;
   margin: 0 auto;
   width: 640px;  
@@ -115,6 +115,7 @@ a:hover {
 
 .body-post a, .body-page a, p.previous-articles a {
   text-decoration: underline;
+  color: rgb(227, 80, 113);
 }
 
 #menu {
@@ -294,9 +295,9 @@ ul.tags {
     font-family: sans-serif;
     position: fixed;
     z-index: 999;
-  right: 35px;
-  bottom: 35px;
-  font-size: 9px;
+	right: 35px;
+	bottom: 35px;
+	font-size: 9px;
 }
 
   .scriptogram-link a {
