@@ -163,13 +163,14 @@ a:hover {
   width: 50%;
   text-align: right;
 }
-  .pages a {
-    float: right;  
-    display:block;
-    
-    padding: 0 17px;
-    border-left: 1px solid #e5e5e5;
-  }
+
+.pages a {
+  float: right;  
+  display:block;
+  
+  padding: 0 17px;
+  border-left: 1px solid #e5e5e5;
+}
 
 .menu-bottom {
   background: black;
@@ -304,9 +305,9 @@ ul.tags li a {
 	font-size: 9px;
 }
 
-  .scriptogram-link a {
-    color: #000;
-  }
+.scriptogram-link a {
+  color: #000;
+}
   
 
 /* Google Prettify */
