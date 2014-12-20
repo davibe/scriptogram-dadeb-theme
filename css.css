@@ -163,7 +163,6 @@ a:hover {
   width: 50%;
   text-align: right;
 }
-
 .pages a {
   float: right;  
   display:block;
@@ -238,8 +237,12 @@ ul.tags li a {
 .share-facebook {
   margin-right: 40px;
   float: left;
-  padding-right: 15px;
+  padding-right: 35px;
 }
+.share-facebook .fb-like {
+  line-height: 0px;
+}
+
 
 /* Pagination */
 
@@ -335,7 +338,6 @@ ol.linenums li {
 }
 /* Alternate shading for lines */
 li.L1, li.L3, li.L5, li.L7, li.L9 {  }
-
 
 /* DARK THEME */
 /* ---------- */
